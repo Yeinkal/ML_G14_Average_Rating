@@ -1,10 +1,10 @@
 # MLAveragRatingG14
-This project is a Book rating predicting Model which enable us to predict the Average rating of one book 
-just  by giving  some informations.
+This project is a Book rating predicting Model which enables us to predict the Average rating of one book 
+just  by giving  some information.
 
 # Python version
 
-Python  (default, Mar 28 , 08:03:21) [MSC v.1916 64 bit (AMD64)] :: Anaconda, Inc. on win32
+Python  version 3.11.4
 
 Environment This project was coded with anaconda and Jupyter notebook
 
