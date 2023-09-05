@@ -70,9 +70,9 @@ One file for the data : "books.csv", at the root the directory
 
   These models was:   
   - Ramdom forest
-  -  Decision Tree
+  - Decision Tree
   - Linear regression
-  -  We tested the neural network model as a bonus
+  - We tested the neural network model as a bonus
           
 
 
@@ -80,10 +80,9 @@ One file for the data : "books.csv", at the root the directory
 
   
    To evaluate the performance of our models we decided to use the following metrics:
-   
-    - MAE : Mean Absolute Error 
-    - MSE : Mean Square Error
-    - ME  : Max Error 
+   - MAE : Mean Absolute Error
+   -  MSE : Mean Square Error
+   -   ME  : Max Error 
    
    After evaluating the metrics we concluded that the Ramdom forest and linear regression models had the best performance with a slight advantage for the Ramdom forest models.
    But globaly All three did a fairly great job and we saw that Neural Network model is very very bad to predict this kind of values
