@@ -68,18 +68,20 @@ One file for the data : "books.csv", at the root the directory
 
    After all this descriptive and comparative analysis, we decided to use our 4 preselected attributes after processing as training variables.
     For the modeling part, we chose to do modeling based on Linear models. Our approach was a comparative approach of 3 models and the model which is the most precise will be taken as the definitive model: 
-    These models was: 
-    
-    - Ramdom forest
-    - Decision Tree 
-    - Linear regression 
-    - We tested the neural network model as a bonus
+  
+  These models was:   
+      - Ramdom forest
+      - Decision Tree 
+      - Linear regression 
+      - We tested the neural network model as a bonus
+          
 
 
   ## STEPS: 5 EVALUATE MODELS AND COMPARE THEM
 
   
    To evaluate the performance of our models we decided to use the following metrics:
+   
     - MAE : Mean Absolute Error 
     - MSE : Mean Square Error
     - ME  : Max Error 
