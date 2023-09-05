@@ -1,6 +1,6 @@
 # ML_G14_Average_Rating
 
-This project is a Book rating predicting Model which enables us to predict the Average rating of one book 
+  This project is a Book rating predicting Model which enables us to predict the Average rating of one book 
 just  by giving  some information.
 
 # Python version
