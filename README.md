@@ -28,7 +28,7 @@ plotly.express as px
 
 One file for the data : "books.csv", at the root the directory
 
-# Project description
+# PROJECT DESCRIPTION
 
 ## 1 STEPS CHECK THE DATASET
 
