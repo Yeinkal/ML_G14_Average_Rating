@@ -70,9 +70,9 @@ One file for the data : "books.csv", at the root the directory
 
   These models was:   
   - Ramdom forest
-  - - Decision Tree
-    - - Linear regression
-      - - We tested the neural network model as a bonus
+  -  Decision Tree
+  - Linear regression
+  -  We tested the neural network model as a bonus
           
 
 
