@@ -54,7 +54,6 @@ One file for the data : "books.csv", at the root the directory
   After that we have carefully studied the average rating attribute which will be the value that our model must determine for each book. 
   
   Subsequently we carried out correlation studies between the Average Rating attribute and 4 numerical variables which seemed relevant to us for our training after having analyzed our dataset. these variables were:
-
   -  num_pages, 
   -  rating count, 
   -  text review count and 
@@ -68,12 +67,12 @@ One file for the data : "books.csv", at the root the directory
 
    After all this descriptive and comparative analysis, we decided to use our 4 preselected attributes after processing as training variables.
     For the modeling part, we chose to do modeling based on Linear models. Our approach was a comparative approach of 3 models and the model which is the most precise will be taken as the definitive model: 
-  
+
   These models was:   
-      - Ramdom forest
-      - Decision Tree 
-      - Linear regression 
-      - We tested the neural network model as a bonus
+  - Ramdom forest
+  - - Decision Tree
+    - - Linear regression
+      - - We tested the neural network model as a bonus
           
 
 
